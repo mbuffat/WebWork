@@ -1,0 +1,23 @@
+<style>
+/* font awesome */
+/*
+  .icon-university{position:relative}
+  .icon-university:before{content:"\f19c"}
+*/
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css);
+/* style beige.css */
+.reveal h1 {
+  text-shadow: none;
+}
+#talk-title
+{
+  text-align: center;
+  font-size: 160%;
+}
+
+#talk-subtitle
+{
+  text-align: center;
+  font-size: 140%;
+}
+</style>
