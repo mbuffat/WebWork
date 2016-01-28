@@ -5,7 +5,7 @@
 Notebook IPython de presentation 
 -------------
 
-* [Webwork pour l'enseignement](http://nbviewer.ipython.org/github/mbuffat/PYconFR2014/blob/master/PYconFR2014.ipynb)
+* [Webwork pour l'enseignement](http://nbviewer.ipython.org/github/mbuffat/WebWork/blob/master/WebWork.ipynb)
 
-* [version slideshow](http://slideviewer.herokuapp.com/github/mbuffat/PYconFR2014/blob/master/PYconFR2014.ipynb)
+* [version slideshow](http://slideviewer.herokuapp.com/github/mbuffat/WebWork/blob/master/WebWork.slides.html)
 
