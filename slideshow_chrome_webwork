@@ -1,7 +1,0 @@
-#! /bin/bash
-# attention lancer le navigateur avant
-# chromium-browser &
-export BROWSER="chromium-browser"
-#workon ipython2
-ipython nbconvert WebWork.ipynb --to=slides --template output_toggle --post serve 
-# pour imprimer ajouter ?print-pdf puis menu

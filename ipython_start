@@ -1,5 +1,0 @@
-#! /bin/sh
-#wmctrl -a Firefox -e 1,0,0,1280,720
-#export BROWSER="chromium-browser"
-#ipython notebook --profile=slideshow
-ipython notebook --profile=rise --port=8900

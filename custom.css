@@ -1,4 +1,0 @@
-# Custom file to hidden scroll in IPython slides
-.reveal {
-	overflow: visible;
-}
